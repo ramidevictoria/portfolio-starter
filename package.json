@@ -1,0 +1,29 @@
+{
+  "name": "portfolio-starter",
+  "version": "1.0.0",
+  "description": "portfolio page",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramidevictoria/portfolio-starter.git"
+  },
+  "keywords": [
+    "portfolio",
+    "web",
+    "developer"
+  ],
+  "author": "Ramiro De Victoria",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ramidevictoria/portfolio-starter/issues"
+  },
+  "homepage": "https://github.com/ramidevictoria/portfolio-starter#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^11.0.0",
+    "express": "^4.17.2"
+  }
+}
